@@ -27,9 +27,11 @@
 # 如果在服务器QIIME中运行SourceTracker软件
 # 首先需要将SourceTracker文件夹路径存储在环境变量“SOURCETRACKER_PATH”中，脚本参考可参考 “README.md” 文件中的说明。
 # 例如在分析目录下运行： “echo "" >> ~/.bash_profile; echo "export SOURCETRACKER_PATH=$HOME/Desktop/sourcetracker-master" >> ~/.bash_profile; source ~/.bash_profile”  ($HOME/Desktop/sourcetracker-master为分析目录地址)
+# 其次如果在服务器中运行脚本，需要“src/SourceTracker” 文件，将此文件夹放入分析文件夹即可，同样无需打开操作
+
 # 如果在本地虚拟机构建的QIIME中运行脚本，可直接运行，如遇报错可尝试以上步骤或参考 “README.md” 文件中的说明
 
-#2.1 #进入分析数据所在目录（以在本地虚拟机构建的QIIME中运行脚本为例）
+#2.1 #进入分析数据所在目录（以在本地虚拟机构建的QIIME中运行脚本为例，无需添加环境变量）
 cd  /home/qiime/Desktop/Shared_Folder/Source_tracking_Analysis/
 
 #2.2 根据构建的概念模型，分别运行SourceTracker脚本对模型中的各条来源关系进行计算及验证
