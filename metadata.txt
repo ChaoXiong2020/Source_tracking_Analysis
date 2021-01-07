@@ -1,0 +1,109 @@
+#SampleID	Env	SourceSink
+1	rhizosphere	sink
+2	rhizosphere	sink
+3	rhizosphere	sink
+4	rhizosphere	sink
+5	rhizosphere	sink
+6	rhizosphere	sink
+7	rhizosphere	sink
+8	rhizosphere	sink
+9	rhizosphere	sink
+10	rhizosphere	sink
+11	rhizosphere	sink
+12	rhizosphere	sink
+13	rhizosphere	sink
+14	rhizosphere	sink
+15	rhizosphere	sink
+16	rhizosphere	sink
+17	rhizosphere	sink
+18	rhizosphere	sink
+19	rhizosphere	sink
+20	rhizosphere	sink
+21	rhizosphere	sink
+22	rhizosphere	sink
+23	rhizosphere	sink
+24	rhizosphere	sink
+25	rhizosphere	sink
+26	rhizosphere	sink
+27	rhizosphere	sink
+28	rhizosphere	sink
+29	rhizosphere	sink
+30	rhizosphere	sink
+31	rhizosphere	sink
+32	rhizosphere	sink
+33	rhizosphere	sink
+34	rhizosphere	sink
+35	rhizosphere	sink
+36	rhizosphere	sink
+37	rhizosphere	sink
+38	rhizosphere	sink
+39	rhizosphere	sink
+40	rhizosphere	sink
+41	rhizosphere	sink
+42	rhizosphere	sink
+43	rhizosphere	sink
+44	rhizosphere	sink
+45	rhizosphere	sink
+46	rhizosphere	sink
+47	rhizosphere	sink
+48	rhizosphere	sink
+49	rhizosphere	sink
+50	rhizosphere	sink
+51	rhizosphere	sink
+52	rhizosphere	sink
+53	rhizosphere	sink
+54	rhizosphere	sink
+55	bulk soil	source
+56	bulk soil	source
+57	bulk soil	source
+58	bulk soil	source
+59	bulk soil	source
+60	bulk soil	source
+61	bulk soil	source
+62	bulk soil	source
+63	bulk soil	source
+64	bulk soil	source
+65	bulk soil	source
+66	bulk soil	source
+67	bulk soil	source
+68	bulk soil	source
+69	bulk soil	source
+70	bulk soil	source
+71	bulk soil	source
+72	bulk soil	source
+73	bulk soil	source
+74	bulk soil	source
+75	bulk soil	source
+76	bulk soil	source
+77	bulk soil	source
+78	bulk soil	source
+79	bulk soil	source
+80	bulk soil	source
+81	bulk soil	source
+82	bulk soil	source
+83	bulk soil	source
+84	bulk soil	source
+85	bulk soil	source
+86	bulk soil	source
+87	bulk soil	source
+88	bulk soil	source
+89	bulk soil	source
+90	bulk soil	source
+91	bulk soil	source
+92	bulk soil	source
+93	bulk soil	source
+94	bulk soil	source
+95	bulk soil	source
+96	bulk soil	source
+97	bulk soil	source
+98	bulk soil	source
+99	bulk soil	source
+100	bulk soil	source
+101	bulk soil	source
+102	bulk soil	source
+103	bulk soil	source
+104	bulk soil	source
+105	bulk soil	source
+106	bulk soil	source
+107	bulk soil	source
+108	bulk soil	source
