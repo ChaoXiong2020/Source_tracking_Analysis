@@ -13,6 +13,7 @@ Source-tracking Analysis for Plant Microbiomes
 #“sourcetracker_for_qiime”为溯源分析软件所需要的封装脚本，放入分析文件夹即可，无需打开操作
 
 #溯源分析软件所需引用文献：
+
 Knights, D., Kuczynski, J., Charlson, E. S., Zaneveld, J., Mozer, M. C., Collman, R. G., Bushman, F. D., Knight, R. and Kelley, S. T. (2011). Bayesian community-wide culture-independent microbial source tracking. Nat. Methods 8(9): 761-763.
 
 #植物微生物组溯源分析的相关文献可参考：
