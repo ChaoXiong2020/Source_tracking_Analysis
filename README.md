@@ -5,8 +5,11 @@ Source-tracking Analysis for Plant Microbiomes
 #DNA Extraction, Amplification And Source-tracking Analysis for Plant Microbiomes
 
 #文件说明
+
 #“Source-tracking Analysis_Xiong_2021” 为主要运行脚本
+
 #“otus.txt”及“metadata.txt”为溯源分析所需要的OTU表格及map文件
+
 #“sourcetracker_for_qiime”为溯源分析软件所需要的封装脚本，放入分析文件夹即可，无需打开操作
 
 #植物微生物组溯源分析的相关文献可参考：
